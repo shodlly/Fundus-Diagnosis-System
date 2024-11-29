@@ -10,7 +10,7 @@ The Pre-trained models used in this project are hosted externally due to size li
 
 2. [CFP VGG19 Model (`.keras`)](https://drive.google.com/file/d/1EH5V4KIQFd80YkdQneJdOWHYs-GDipRH/view?usp=sharing)  
 
-3. [Another Model File (`.h5`)](https://drive.google.com/file/d/1X9NMAIvGa2MdyTApRWRwkNoMJ5hDLonL/view?usp=sharing)
+3. [OCT_CFP_VGG19_Model (`.h5`)](https://drive.google.com/file/d/1X9NMAIvGa2MdyTApRWRwkNoMJ5hDLonL/view?usp=sharing)
 
 
 ---
